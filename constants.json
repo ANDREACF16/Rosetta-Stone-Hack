@@ -1,9 +1,9 @@
 {
-  "person": "YOUR_NAME (Not Required)",
-  "authorization": "YOUR_AUTHORIZATION_TOKEN",
-  "sessionToken": "YOUR_SESSION_TOKEN",
-  "schoolName": "YOUR_SCHOOL_NAME",
-  "unitsToComplete": [1, 2, 3],
-  "userId": "YOUR_USER_ID",
-  "languageCode": "YOUR_LANGUAGE_CODE"
+  "person": "ANDREA",
+  "authorization": "YES",
+  "sessionToken": "https://login.rosettastone.com/#/launchpadN",
+  "schoolName": "YCientifica_del_sur",
+  "unitsToComplete": [10, 11, 12],
+  "userId": "100046865@cientifica.edu.pe",
+  "languageCode": "ENG"
 }
